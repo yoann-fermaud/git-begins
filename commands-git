@@ -7,3 +7,8 @@ Les trois commandes de push :
 git add [nom_du_fichier]
 git commit (mettre une petite note)
 git push
+
+Commande de pull :
+git pull
+git pull origin MA_BRANCH
+
