@@ -11,3 +11,10 @@ git push
 Commande de pull :
 git pull
 git pull origin MA_BRANCH
+
+Commande pour créer une branche :
+git branche [nom-de-branche]
+git branche -u [nom-de-branche] (-u pour définir une branche de suivi)
+
+Commande pour switcher de branche :
+git checkout [nom_de_branche]
