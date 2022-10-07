@@ -1,0 +1,9 @@
+commands-git
+
+Cloner un repo :
+git clone [URL/SSH_KEY_repo]
+
+Les trois commandes de push :
+git add [nom_du_fichier]
+git commit (mettre une petite note)
+git push
